@@ -1,6 +1,6 @@
 # How to Build and Deploy a Solana Blockchain Explorer
 
-How to Build and Deploy a Solana Blockchain Explorer Using Solana@web3.js, ReactJS
+How to Build and Deploy a Solana Blockchain Explorer Using Solana@web3js, ReactJS
 
 building and deploying a Solana Blockchain Explorer using ReactJS. Whether you're a seasoned developer or just getting started with blockchain development, this step-by-step guide will help you create a powerful and responsive blockchain explorer from scratch.
 
