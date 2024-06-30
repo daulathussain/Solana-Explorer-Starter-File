@@ -16,7 +16,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/DKWqBqZDh74?si=7CUfjABG3zxRC4dt)
+- [Final Code Setup video](https://www.youtube.com/watch?v=4cjDQ0mZz2g)
 
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
